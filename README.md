@@ -4,7 +4,7 @@
 
 
 ## Структура файлів
-* cafe_sales_eda.ipynb - Jupyter Notebook з повним кодом, процесом очищення та покроковим розбором датасету.
+* [final_pr.ipynb](final_pr.ipynb) - Jupyter Notebook з повним кодом, процесом очищення та покроковим розбором датасету.
 * [data](csv_files/dirty_data) - дані про продажі (джерело: [Cafe Sales - Dirty Data for Cleaning Training](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)).
 * [clean_data.csv](csv_files/clean_data.csv) - фінальний очищений датасет, підготовлений для подальшого використання.
 
